@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Guilherme 👋
 
-<!--
-**guilherme1805emanu-glitch/guilherme1805emanu-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante curioso e em constante evolução, estou finalizando o ensino médio e atualmente curso dois temas que me chamam bastante atenção: Python e JavaScript.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 💡 Tenho interesse em aprender cada vez mais sobre programação.
+- 🚀 Quero construir uma base sólida para crescer na área de tecnologia.
+- 📚 Minha meta é aprender com dedicação e, futuramente, compartilhar conhecimento com outras pessoas.
+- 🔐 Tenho curiosidade especial por temas como segurança da informação, desenvolvimento e boas práticas de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que estou estudando
+- Python
+- JavaScript
+- Conceitos básicos de programação e lógica
+- Interesse crescente em segurança e tecnologia
+
+## Objetivos
+- Aprender de forma consistente e prática.
+- Desenvolver minhas habilidades como programador.
+- Crescer profissionalmente e futuramente ensinar outras pessoas.
+- Explorar áreas que envolvem inovação, segurança e resolução de problemas.
+
+## Características
+- Curioso
+- Determinado
+- Apaixonado por aprender
+- Aberto a novos desafios
+
+Se você quiser, posso também criar uma versão mais “profissional”, mais “bonita” ou mais “inspiradora” desse README para você usar no GitHub.
+
