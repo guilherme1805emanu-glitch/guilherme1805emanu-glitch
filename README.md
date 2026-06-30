@@ -26,5 +26,3 @@ Sou um estudante curioso e em constante evolução, estou finalizando o ensino m
 - Apaixonado por aprender
 - Aberto a novos desafios
 
-Se você quiser, posso também criar uma versão mais “profissional”, mais “bonita” ou mais “inspiradora” desse README para você usar no GitHub.
-
